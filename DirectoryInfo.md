@@ -68,7 +68,7 @@ Lekéri a mappa szülőkönyvtárának *DirectoryInfo* példányát.
 Lekéri a meghajtó vagy fájlrendszer gyökérkönyvtárának *DirectoryInfo* példányát, amely a megadott mappát tartalmazza.
 
 ## Metódusok
-A DirectoryClass metódusai különböző műveleteket hajtanak végre a mappát vagy annak az almappáin.
+A DirectoryInfo Class metódusai különböző műveleteket hajtanak végre a mappát vagy annak az almappáin.
 
 *Ez a lista csak a fontosabb metódusokat tartalmazza!*
 
