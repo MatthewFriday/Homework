@@ -30,7 +30,7 @@ A FileInfo class metódusai különböző műveleteket hajtanak végre a fájlon
 
 *Ez a lista csak a fontosabb metódusokat tartalmazza!*
 
-\# **GetConstructos()**  
+\# **GetConstructors()**  
 Visszaadja a megadott típus publikus konstruktorait.
 
 *Visszatérési érték:* ConstructorInfo[] tömb
